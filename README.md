@@ -9,7 +9,7 @@ Passionate about learning, solving problems, and building cool things!
 
 ## Top Skills
 - **Languages:** Java, ,SQL, Python, R
-- **Favorite Project:** [hashtables](https://github.com/Makanaka-csc/hashtables) (they're really cool!)
+- **Favorite Repository:** [hashtables](https://github.com/Makanaka-csc/hashTables-Assignment) (they're really cool!)
 
 ---
 
