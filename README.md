@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, Molweni!
 
-<!--
-**Makanaka-csc/Makanaka-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Makanaka..
 
-Here are some ideas to get you started:
+🎓 **A Computer Science & Applied Statistics Student**  
+Passionate about learning, solving problems, and building cool things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Top Skills
+- **Languages:** Java, ,SQL, Python, R
+- **Favorite Project:** [hashtables](https://github.com/Makanaka-csc/hashtables) (they're really cool!)
+
+---
+
+##  Interests💕
+- Grinding LeetCode questions
+- Running & staying active
+- Exploring new tech and algorithms
+
+---
+
+## 🤓 Fun Fact
+> I only really started enjoying coding about 3 months ago—and it's been so FUN!
+
+---
+
+Thanks for stopping by! 
