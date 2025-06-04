@@ -21,7 +21,7 @@ Passionate about learning, solving problems, and building cool things!
 ---
 
 ## 🤓 Fun Fact
-> I only really started enjoying coding about 3 months ago—and it's been so FUN!
+> I only really started enjoying coding about 3 months ago, and it's been so FUN!
 
 ---
 
